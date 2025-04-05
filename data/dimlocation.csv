@@ -1,0 +1,825 @@
+location_id,location_name,region,state,location_type
+1,Tamworth Regional,New England and North West,NSW,Inner Regional Australia
+2,Dubbo Regional,Far West and Orana,NSW,Inner Regional Australia
+3,Lockhart,Riverina,NSW,Inner Regional Australia
+4,Narromine,Far West and Orana,NSW,Outer Regional Australia
+5,Newcastle,Newcastle and Lake Macquarie,NSW,Major Cities of Australia
+6,Eurobodalla,Capital Region,NSW,Inner Regional Australia
+7,Tamworth Regional,New England and North West,NSW,Outer Regional Australia
+8,Bathurst Regional,Central West,NSW,Inner Regional Australia
+9,Wingecarribee,Southern Highlands and Shoalhaven,NSW,Inner Regional Australia
+10,Cowra,Central West,NSW,Outer Regional Australia
+11,Central Coast (NSW),Central Coast,NSW,Major Cities of Australia
+12,Northern Beaches,Sydney - Northern Beaches,NSW,Major Cities of Australia
+13,Unincorporated NSW,Far West and Orana,NSW,Remote Australia
+14,Greater Hume Shire,Murray,NSW,Outer Regional Australia
+15,Mid-Coast,Hunter Valley exc Newcastle,NSW,Inner Regional Australia
+16,Fairfield,Sydney - South West,NSW,Major Cities of Australia
+17,Temora,Riverina,NSW,Outer Regional Australia
+18,Lismore,Richmond - Tweed,NSW,Inner Regional Australia
+19,Clarence Valley,Coffs Harbour - Grafton,NSW,Inner Regional Australia
+20,Fairfield,Sydney - Parramatta,NSW,Major Cities of Australia
+21,Hay,Murray,NSW,Remote Australia
+22,Hilltops,Capital Region,NSW,Inner Regional Australia
+23,Parramatta,Sydney - Ryde,NSW,Major Cities of Australia
+24,Glen Innes Severn,New England and North West,NSW,Outer Regional Australia
+25,Dubbo Regional,Far West and Orana,NSW,Outer Regional Australia
+26,Clarence Valley,Coffs Harbour - Grafton,NSW,Outer Regional Australia
+27,Parkes,Central West,NSW,Outer Regional Australia
+28,Sutherland Shire,Sydney - Sutherland,NSW,Major Cities of Australia
+29,Lake Macquarie,Newcastle and Lake Macquarie,NSW,Major Cities of Australia
+30,Ryde,Sydney - Ryde,NSW,Major Cities of Australia
+31,Inner West,Sydney - Inner West,NSW,Major Cities of Australia
+32,Coffs Harbour,Coffs Harbour - Grafton,NSW,Inner Regional Australia
+33,Blacktown,Sydney - Blacktown,NSW,Major Cities of Australia
+34,Cumberland,Sydney - Parramatta,NSW,Major Cities of Australia
+35,Queanbeyan-Palerang Regional,Capital Region,NSW,Inner Regional Australia
+36,Ballina,Richmond - Tweed,NSW,Inner Regional Australia
+37,Wollongong,Illawarra,NSW,Major Cities of Australia
+38,Moree Plains,New England and North West,NSW,Outer Regional Australia
+39,Singleton,Hunter Valley exc Newcastle,NSW,Inner Regional Australia
+40,Mid-Coast,Mid North Coast,NSW,Outer Regional Australia
+41,The Hills Shire,Sydney - Baulkham Hills and Hawkesbury,NSW,Major Cities of Australia
+42,Snowy Valleys,Riverina,NSW,Outer Regional Australia
+43,Goulburn Mulwaree,Capital Region,NSW,Inner Regional Australia
+44,Hawkesbury,Sydney - Baulkham Hills and Hawkesbury,NSW,Inner Regional Australia
+45,Cabonne,Central West,NSW,Outer Regional Australia
+46,Tenterfield,New England and North West,NSW,Outer Regional Australia
+47,Mid-Coast,Mid North Coast,NSW,Inner Regional Australia
+48,Snowy Monaro Regional,Capital Region,NSW,Outer Regional Australia
+49,Yass Valley,Capital Region,NSW,Inner Regional Australia
+50,Campbelltown (NSW),Sydney - Outer South West,NSW,Major Cities of Australia
+51,Muswellbrook,Hunter Valley exc Newcastle,NSW,Inner Regional Australia
+52,Federation,Murray,NSW,Outer Regional Australia
+53,Shoalhaven,Capital Region,NSW,Inner Regional Australia
+54,Lithgow,Central West,NSW,Inner Regional Australia
+55,Queanbeyan-Palerang Regional,Capital Region,NSW,Major Cities of Australia
+56,Wagga Wagga,Riverina,NSW,Inner Regional Australia
+57,Cowra,Central West,NSW,Inner Regional Australia
+58,Port Stephens,Hunter Valley exc Newcastle,NSW,Inner Regional Australia
+59,Wollongong,Illawarra,NSW,Inner Regional Australia
+60,Willoughby,Sydney - North Sydney and Hornsby,NSW,Major Cities of Australia
+61,Parramatta,Sydney - Parramatta,NSW,Major Cities of Australia
+62,Tweed,Richmond - Tweed,NSW,Inner Regional Australia
+63,Tweed,Richmond - Tweed,NSW,Major Cities of Australia
+64,Sutherland Shire,Sydney - Sutherland,NSW,Inner Regional Australia
+65,Bland,Central West,NSW,Outer Regional Australia
+66,Georges River,Sydney - Inner South West,NSW,Major Cities of Australia
+67,Greater Hume Shire,Murray,NSW,Inner Regional Australia
+68,Wentworth,Murray,NSW,Remote Australia
+69,Singleton,Hunter Valley exc Newcastle,NSW,Outer Regional Australia
+70,Bellingen,Coffs Harbour - Grafton,NSW,Inner Regional Australia
+71,Kempsey,Mid North Coast,NSW,Inner Regional Australia
+72,Port Macquarie-Hastings,Mid North Coast,NSW,Inner Regional Australia
+73,Carrathool,Riverina,NSW,Remote Australia
+74,Bega Valley,Capital Region,NSW,Outer Regional Australia
+75,Strathfield,Sydney - Inner West,NSW,Major Cities of Australia
+76,Unincorporated NSW,Far West and Orana,NSW,Very Remote Australia
+77,Liverpool,Sydney - South West,NSW,Major Cities of Australia
+78,Narrandera,Riverina,NSW,Outer Regional Australia
+79,Richmond Valley,Richmond - Tweed,NSW,Inner Regional Australia
+80,Randwick,Sydney - Eastern Suburbs,NSW,Major Cities of Australia
+81,Brewarrina,Far West and Orana,NSW,Very Remote Australia
+82,Weddin,Central West,NSW,Outer Regional Australia
+83,Hornsby,Sydney - North Sydney and Hornsby,NSW,Inner Regional Australia
+84,Gilgandra,Far West and Orana,NSW,Outer Regional Australia
+85,Sydney,Sydney - City and Inner South,NSW,Major Cities of Australia
+86,Murrumbidgee,Murray,NSW,Outer Regional Australia
+87,Hilltops,Capital Region,NSW,Outer Regional Australia
+88,Port Macquarie-Hastings,Mid North Coast,NSW,Outer Regional Australia
+89,Moree Plains,New England and North West,NSW,Remote Australia
+90,Lachlan,Central West,NSW,Remote Australia
+91,Upper Hunter Shire,Hunter Valley exc Newcastle,NSW,Outer Regional Australia
+92,Shellharbour,Illawarra,NSW,Major Cities of Australia
+93,Mid-Western Regional,Central West,NSW,Outer Regional Australia
+94,Blue Mountains,Sydney - Outer West and Blue Mountains,NSW,Major Cities of Australia
+95,Canterbury-Bankstown,Sydney - Inner South West,NSW,Major Cities of Australia
+96,Kyogle,Richmond - Tweed,NSW,Inner Regional Australia
+97,Armidale Regional,New England and North West,NSW,Outer Regional Australia
+98,Armidale Regional,New England and North West,NSW,Inner Regional Australia
+99,Narrabri,New England and North West,NSW,Outer Regional Australia
+100,Upper Lachlan Shire,Capital Region,NSW,Inner Regional Australia
+101,Forbes,Central West,NSW,Outer Regional Australia
+102,Nambucca Valley,Mid North Coast,NSW,Inner Regional Australia
+103,Balranald,Murray,NSW,Outer Regional Australia
+104,Penrith,Sydney - Outer West and Blue Mountains,NSW,Major Cities of Australia
+105,Central Coast (NSW),Central Coast,NSW,Inner Regional Australia
+106,Kiama,Illawarra,NSW,Inner Regional Australia
+107,Leeton,Riverina,NSW,Outer Regional Australia
+108,Penrith,Sydney - South West,NSW,Major Cities of Australia
+109,Hawkesbury,Sydney - Baulkham Hills and Hawkesbury,NSW,Outer Regional Australia
+110,Woollahra,Sydney - Eastern Suburbs,NSW,Major Cities of Australia
+111,Maitland,Hunter Valley exc Newcastle,NSW,Major Cities of Australia
+112,Edward River,Murray,NSW,Outer Regional Australia
+113,Wollondilly,Sydney - Outer South West,NSW,Inner Regional Australia
+114,Cessnock,Hunter Valley exc Newcastle,NSW,Major Cities of Australia
+115,Shoalhaven,Southern Highlands and Shoalhaven,NSW,Inner Regional Australia
+116,Liverpool Plains,New England and North West,NSW,Outer Regional Australia
+117,Camden,Sydney - South West,NSW,Major Cities of Australia
+118,Bellingen,Coffs Harbour - Grafton,NSW,Outer Regional Australia
+119,Lake Macquarie,Newcastle and Lake Macquarie,NSW,Inner Regional Australia
+120,Canada Bay,Sydney - Inner West,NSW,Major Cities of Australia
+121,North Sydney,Sydney - North Sydney and Hornsby,NSW,Major Cities of Australia
+122,Waverley,Sydney - Eastern Suburbs,NSW,Major Cities of Australia
+123,Ku-ring-gai,Sydney - North Sydney and Hornsby,NSW,Major Cities of Australia
+124,Hawkesbury,Sydney - Outer West and Blue Mountains,NSW,Major Cities of Australia
+125,Sydney,Sydney - Eastern Suburbs,NSW,Major Cities of Australia
+126,Gunnedah,New England and North West,NSW,Outer Regional Australia
+127,Cabonne,Far West and Orana,NSW,Outer Regional Australia
+128,Inverell,New England and North West,NSW,Outer Regional Australia
+129,Hornsby,Sydney - North Sydney and Hornsby,NSW,Major Cities of Australia
+130,Byron,Richmond - Tweed,NSW,Inner Regional Australia
+131,Albury,Murray,NSW,Inner Regional Australia
+132,Hunters Hill,Sydney - Ryde,NSW,Major Cities of Australia
+133,Camden,Sydney - Outer South West,NSW,Major Cities of Australia
+134,Eurobodalla,Capital Region,NSW,Outer Regional Australia
+135,Hornsby,Sydney - Ryde,NSW,Major Cities of Australia
+136,Murray River,Murray,NSW,Outer Regional Australia
+137,Narrabri,New England and North West,NSW,Remote Australia
+138,Warrumbungle Shire,Far West and Orana,NSW,Outer Regional Australia
+139,Bayside (NSW),Sydney - Inner South West,NSW,Major Cities of Australia
+140,Oberon,Central West,NSW,Inner Regional Australia
+141,Port Stephens,Hunter Valley exc Newcastle,NSW,Major Cities of Australia
+142,Walcha,New England and North West,NSW,Outer Regional Australia
+143,Orange,Central West,NSW,Inner Regional Australia
+144,Bogan,Far West and Orana,NSW,Remote Australia
+145,Sutherland Shire,Sydney - Outer South West,NSW,Inner Regional Australia
+146,Dungog,Hunter Valley exc Newcastle,NSW,Inner Regional Australia
+147,Maitland,Hunter Valley exc Newcastle,NSW,Inner Regional Australia
+148,Griffith,Riverina,NSW,Outer Regional Australia
+149,Murrumbidgee,Riverina,NSW,Outer Regional Australia
+150,Junee,Riverina,NSW,Outer Regional Australia
+151,Lane Cove,Sydney - North Sydney and Hornsby,NSW,Major Cities of Australia
+152,Cabonne,Central West,NSW,Inner Regional Australia
+153,Kempsey,Mid North Coast,NSW,Outer Regional Australia
+154,Cobar,Far West and Orana,NSW,Very Remote Australia
+155,Coolamon,Riverina,NSW,Outer Regional Australia
+156,Gwydir,New England and North West,NSW,Outer Regional Australia
+157,Cessnock,Hunter Valley exc Newcastle,NSW,Inner Regional Australia
+158,Gold Coast,Gold Coast,QLD,Major Cities of Australia
+159,Mackay,Mackay - Isaac - Whitsunday,QLD,Outer Regional Australia
+160,Toowoomba,Toowoomba,QLD,Inner Regional Australia
+161,Isaac,Mackay - Isaac - Whitsunday,QLD,Remote Australia
+162,Moreton Bay,Moreton Bay - North,QLD,Major Cities of Australia
+163,Cairns,Cairns,QLD,Outer Regional Australia
+164,Banana,Central Queensland,QLD,Outer Regional Australia
+165,Longreach,Queensland - Outback,QLD,Very Remote Australia
+166,Sunshine Coast,Sunshine Coast,QLD,Major Cities of Australia
+167,Logan,Logan - Beaudesert,QLD,Major Cities of Australia
+168,Scenic Rim,Ipswich,QLD,Inner Regional Australia
+169,Ipswich,Ipswich,QLD,Major Cities of Australia
+170,Sunshine Coast,Sunshine Coast,QLD,Inner Regional Australia
+171,Carpentaria,Queensland - Outback,QLD,Very Remote Australia
+172,Townsville,Townsville,QLD,Outer Regional Australia
+173,Moreton Bay,Moreton Bay - South,QLD,Major Cities of Australia
+174,Rockhampton,Central Queensland,QLD,Inner Regional Australia
+175,Noosa,Sunshine Coast,QLD,Inner Regional Australia
+176,Fraser Coast,Wide Bay,QLD,Inner Regional Australia
+177,Brisbane,Brisbane - North,QLD,Major Cities of Australia
+178,Whitsunday,Mackay - Isaac - Whitsunday,QLD,Outer Regional Australia
+179,Gympie,Wide Bay,QLD,Inner Regional Australia
+180,Central Highlands (Qld),Central Queensland,QLD,Outer Regional Australia
+181,Gladstone,Central Queensland,QLD,Inner Regional Australia
+182,Somerset,Ipswich,QLD,Inner Regional Australia
+183,Brisbane,Brisbane - West,QLD,Major Cities of Australia
+184,Wentworth,Murray,NSW,Outer Regional Australia
+185,Cootamundra-Gundagai Regional,Riverina,NSW,Inner Regional Australia
+186,Canterbury-Bankstown,Sydney - Parramatta,NSW,Major Cities of Australia
+187,Bayside (NSW),Sydney - City and Inner South,NSW,Major Cities of Australia
+188,Inner West,Sydney - City and Inner South,NSW,Major Cities of Australia
+189,Berrigan,Murray,NSW,Outer Regional Australia
+190,Berrigan,Murray,NSW,Inner Regional Australia
+191,Warren,Far West and Orana,NSW,Remote Australia
+192,Blayney,Central West,NSW,Inner Regional Australia
+193,Port Stephens,Newcastle and Lake Macquarie,NSW,Major Cities of Australia
+194,Mid-Western Regional,Central West,NSW,Inner Regional Australia
+195,Goulburn Mulwaree,Capital Region,NSW,Outer Regional Australia
+196,Upper Hunter Shire,Hunter Valley exc Newcastle,NSW,Inner Regional Australia
+197,Shellharbour,Illawarra,NSW,Inner Regional Australia
+198,Wagga Wagga,Riverina,NSW,Outer Regional Australia
+199,Blue Mountains,Sydney - Outer West and Blue Mountains,NSW,Inner Regional Australia
+200,Penrith,Sydney - Outer West and Blue Mountains,NSW,Inner Regional Australia
+201,Burwood,Sydney - Inner West,NSW,Major Cities of Australia
+202,Walgett,Far West and Orana,NSW,Remote Australia
+203,Cootamundra-Gundagai Regional,Riverina,NSW,Outer Regional Australia
+204,Snowy Valleys,Riverina,NSW,Inner Regional Australia
+205,Oberon,Central West,NSW,Outer Regional Australia
+206,Hawkesbury,Sydney - Baulkham Hills and Hawkesbury,NSW,Major Cities of Australia
+207,Snowy Monaro Regional,Capital Region,NSW,Inner Regional Australia
+208,Federation,Murray,NSW,Inner Regional Australia
+209,Nambucca Valley,Mid North Coast,NSW,Outer Regional Australia
+210,Lithgow,Central West,NSW,Outer Regional Australia
+211,Balranald,Murray,NSW,Remote Australia
+212,Doomadgee,Queensland - Outback,QLD,Very Remote Australia
+213,Redland,Brisbane - East,QLD,Major Cities of Australia
+214,Logan,Logan - Beaudesert,QLD,Inner Regional Australia
+215,Bundaberg,Wide Bay,QLD,Inner Regional Australia
+216,Mackay,Mackay - Isaac - Whitsunday,QLD,Inner Regional Australia
+217,Brisbane,Brisbane - East,QLD,Major Cities of Australia
+218,Brisbane,Brisbane - South,QLD,Major Cities of Australia
+219,Western Downs,Darling Downs - Maranoa,QLD,Outer Regional Australia
+220,Scenic Rim,Logan - Beaudesert,QLD,Inner Regional Australia
+221,Croydon,Queensland - Outback,QLD,Very Remote Australia
+222,Gladstone,Central Queensland,QLD,Outer Regional Australia
+223,Hope Vale,Queensland - Outback,QLD,Remote Australia
+224,Richmond Valley,Richmond - Tweed,NSW,Outer Regional Australia
+225,Wollondilly,Illawarra,NSW,Inner Regional Australia
+226,Southern Downs,Darling Downs - Maranoa,QLD,Inner Regional Australia
+227,Toowoomba,Darling Downs - Maranoa,QLD,Inner Regional Australia
+228,Cassowary Coast,Cairns,QLD,Outer Regional Australia
+229,North Burnett,Wide Bay,QLD,Outer Regional Australia
+230,Mount Isa,Queensland - Outback,QLD,Remote Australia
+231,Isaac,Mackay - Isaac - Whitsunday,QLD,Outer Regional Australia
+232,Western Downs,Darling Downs - Maranoa,QLD,Inner Regional Australia
+233,Scenic Rim,Logan - Beaudesert,QLD,Outer Regional Australia
+234,Charters Towers,Townsville,QLD,Outer Regional Australia
+235,Moreton Bay,Moreton Bay - North,QLD,Inner Regional Australia
+236,Blayney,Central West,NSW,Outer Regional Australia
+237,Gympie,Wide Bay,QLD,Outer Regional Australia
+238,Livingstone,Central Queensland,QLD,Inner Regional Australia
+239,Moreton Bay,Moreton Bay - South,QLD,Inner Regional Australia
+240,Cloncurry,Queensland - Outback,QLD,Very Remote Australia
+241,Brisbane,Brisbane Inner City,QLD,Major Cities of Australia
+242,Brisbane,Ipswich,QLD,Major Cities of Australia
+243,Central Darling,Far West and Orana,NSW,Very Remote Australia
+244,Junee,Riverina,NSW,Inner Regional Australia
+245,Bogan,Far West and Orana,NSW,Very Remote Australia
+246,The Hills Shire,Sydney - Baulkham Hills and Hawkesbury,NSW,Inner Regional Australia
+247,South Burnett,Wide Bay,QLD,Inner Regional Australia
+248,Mareeba,Queensland - Outback,QLD,Very Remote Australia
+249,Central Highlands (Qld),Central Queensland,QLD,Remote Australia
+250,Douglas,Cairns,QLD,Outer Regional Australia
+251,Ipswich,Ipswich,QLD,Inner Regional Australia
+252,McKinlay,Queensland - Outback,QLD,Very Remote Australia
+253,South Gippsland,Latrobe - Gippsland,VIC,Inner Regional Australia
+254,Melton,Melbourne - West,VIC,Major Cities of Australia
+255,Corangamite,Warrnambool and South West,VIC,Inner Regional Australia
+256,Mornington Peninsula,Mornington Peninsula,VIC,Major Cities of Australia
+257,Yarra Ranges,Melbourne - Outer East,VIC,Major Cities of Australia
+258,Whittlesea,Melbourne - North East,VIC,Major Cities of Australia
+259,Greater Geelong,Geelong,VIC,Major Cities of Australia
+260,Maroondah,Melbourne - Outer East,VIC,Major Cities of Australia
+261,Latrobe (Vic.),Latrobe - Gippsland,VIC,Inner Regional Australia
+262,Stonnington,Melbourne - Inner,VIC,Major Cities of Australia
+263,Warrnambool,Warrnambool and South West,VIC,Inner Regional Australia
+264,Monash,Melbourne - South East,VIC,Major Cities of Australia
+265,Murrindindi,Melbourne - North East,VIC,Inner Regional Australia
+266,Greater Geelong,Geelong,VIC,Inner Regional Australia
+267,Loddon,Bendigo,VIC,Inner Regional Australia
+268,Greater Shepparton,Shepparton,VIC,Inner Regional Australia
+269,Macedon Ranges,Bendigo,VIC,Inner Regional Australia
+270,Mildura,North West,VIC,Outer Regional Australia
+271,Towong,Hume,VIC,Outer Regional Australia
+272,Greater Bendigo,Bendigo,VIC,Inner Regional Australia
+273,Moorabool,Ballarat,VIC,Inner Regional Australia
+274,Macedon Ranges,Melbourne - North West,VIC,Inner Regional Australia
+275,Golden Plains,Geelong,VIC,Inner Regional Australia
+276,Kingston (Vic.),Melbourne - South East,VIC,Major Cities of Australia
+277,Glenelg,Warrnambool and South West,VIC,Outer Regional Australia
+278,Knox,Melbourne - Outer East,VIC,Major Cities of Australia
+279,Darebin,Melbourne - North East,VIC,Major Cities of Australia
+280,Wyndham,Melbourne - West,VIC,Major Cities of Australia
+281,Tablelands,Cairns,QLD,Outer Regional Australia
+282,Noosa,Sunshine Coast,QLD,Major Cities of Australia
+283,Maranoa,Darling Downs - Maranoa,QLD,Remote Australia
+284,South Burnett,Wide Bay,QLD,Outer Regional Australia
+285,Hinchinbrook,Townsville,QLD,Outer Regional Australia
+286,Liverpool,Sydney - South West,NSW,Inner Regional Australia
+287,Uralla,New England and North West,NSW,Inner Regional Australia
+288,Northern Beaches,Sydney - Northern Beaches,NSW,Inner Regional Australia
+289,Uralla,New England and North West,NSW,Outer Regional Australia
+290,Kyogle,Richmond - Tweed,NSW,Outer Regional Australia
+291,Strathbogie,Hume,VIC,Inner Regional Australia
+292,Nillumbik,Melbourne - North East,VIC,Inner Regional Australia
+293,Brimbank,Melbourne - West,VIC,Major Cities of Australia
+294,Moyne,Warrnambool and South West,VIC,Inner Regional Australia
+295,Ararat,North West,VIC,Inner Regional Australia
+296,Greater Dandenong,Melbourne - South East,VIC,Major Cities of Australia
+297,East Gippsland,Latrobe - Gippsland,VIC,Outer Regional Australia
+299,Cardinia,Melbourne - South East,VIC,Inner Regional Australia
+300,Melbourne,Melbourne - Inner,VIC,Major Cities of Australia
+301,Horsham,North West,VIC,Outer Regional Australia
+302,Moira,Shepparton,VIC,Inner Regional Australia
+303,Wellington,Latrobe - Gippsland,VIC,Inner Regional Australia
+304,Ballarat,Ballarat,VIC,Inner Regional Australia
+305,Colac Otway,Warrnambool and South West,VIC,Inner Regional Australia
+306,Bayside (Vic.),Melbourne - Inner South,VIC,Major Cities of Australia
+307,East Gippsland,Latrobe - Gippsland,VIC,Remote Australia
+308,Cardinia,Melbourne - South East,VIC,Major Cities of Australia
+309,Frankston,Mornington Peninsula,VIC,Major Cities of Australia
+310,Warrumbungle Shire,Central West,NSW,Outer Regional Australia
+311,Bourke,Far West and Orana,NSW,Very Remote Australia
+312,Bathurst Regional,Central West,NSW,Outer Regional Australia
+313,The Hills Shire,Sydney - Parramatta,NSW,Major Cities of Australia
+314,Muswellbrook,Hunter Valley exc Newcastle,NSW,Outer Regional Australia
+315,Federation,Riverina,NSW,Outer Regional Australia
+316,Carrathool,Riverina,NSW,Outer Regional Australia
+317,Upper Lachlan Shire,Capital Region,NSW,Outer Regional Australia
+318,Richmond Valley,Coffs Harbour - Grafton,NSW,Outer Regional Australia
+319,Coolamon,Riverina,NSW,Inner Regional Australia
+320,Northern Grampians,North West,VIC,Outer Regional Australia
+321,Corangamite,Warrnambool and South West,VIC,Outer Regional Australia
+322,Indigo,Hume,VIC,Inner Regional Australia
+323,West Wimmera,North West,VIC,Outer Regional Australia
+324,Campaspe,Shepparton,VIC,Inner Regional Australia
+325,Benalla,Hume,VIC,Outer Regional Australia
+326,Buloke,North West,VIC,Outer Regional Australia
+327,Southern Grampians,Warrnambool and South West,VIC,Outer Regional Australia
+328,Manningham,Melbourne - Outer East,VIC,Major Cities of Australia
+329,Whitehorse,Melbourne - Inner East,VIC,Major Cities of Australia
+330,Wellington,Latrobe - Gippsland,VIC,Outer Regional Australia
+331,Casey,Melbourne - South East,VIC,Major Cities of Australia
+332,Rockhampton,Central Queensland,QLD,Outer Regional Australia
+333,Gold Coast,Gold Coast,QLD,Inner Regional Australia
+334,Charters Towers,Townsville,QLD,Very Remote Australia
+335,Cook,Queensland - Outback,QLD,Very Remote Australia
+336,Toowoomba,Darling Downs - Maranoa,QLD,Outer Regional Australia
+337,Mitchell,Hume,VIC,Inner Regional Australia
+338,Pyrenees,Ballarat,VIC,Inner Regional Australia
+339,Mount Alexander,Bendigo,VIC,Inner Regional Australia
+340,Yarra Ranges,Melbourne - Outer East,VIC,Inner Regional Australia
+341,Stonnington,Melbourne - Inner South,VIC,Major Cities of Australia
+342,Darebin,Melbourne - Inner,VIC,Major Cities of Australia
+343,Whitehorse,Melbourne - Outer East,VIC,Major Cities of Australia
+344,Ararat,North West,VIC,Outer Regional Australia
+345,Kingston (Vic.),Melbourne - Inner South,VIC,Major Cities of Australia
+346,Hobsons Bay,Melbourne - West,VIC,Major Cities of Australia
+347,Mansfield,Hume,VIC,Outer Regional Australia
+348,Somerset,Moreton Bay - North,QLD,Outer Regional Australia
+349,Flinders (Qld),Queensland - Outback,QLD,Very Remote Australia
+350,Livingstone,Central Queensland,QLD,Remote Australia
+351,Bass Coast,Latrobe - Gippsland,VIC,Inner Regional Australia
+352,Hume,Melbourne - North West,VIC,Major Cities of Australia
+353,Glen Eira,Melbourne - Inner South,VIC,Major Cities of Australia
+354,Maribyrnong,Melbourne - West,VIC,Major Cities of Australia
+355,Lockyer Valley,Toowoomba,QLD,Inner Regional Australia
+356,Whitsunday,Mackay - Isaac - Whitsunday,QLD,Remote Australia
+357,Wollondilly,Sydney - Outer West and Blue Mountains,NSW,Inner Regional Australia
+358,Surf Coast,Geelong,VIC,Inner Regional Australia
+359,Baw Baw,Latrobe - Gippsland,VIC,Inner Regional Australia
+360,Casey,Melbourne - South East,VIC,Inner Regional Australia
+361,Moonee Valley,Melbourne - Inner,VIC,Major Cities of Australia
+362,Boroondara,Melbourne - Inner East,VIC,Major Cities of Australia
+363,Burdekin,Townsville,QLD,Outer Regional Australia
+364,Cassowary Coast,Cairns,QLD,Remote Australia
+365,Goondiwindi,Darling Downs - Maranoa,QLD,Outer Regional Australia
+366,Western Downs,Darling Downs - Maranoa,QLD,Remote Australia
+367,Murweh,Queensland - Outback,QLD,Very Remote Australia
+368,Bundaberg,Wide Bay,QLD,Outer Regional Australia
+369,Yarriambiack,North West,VIC,Outer Regional Australia
+370,Whittlesea,Melbourne - North East,VIC,Inner Regional Australia
+371,Murrindindi,Hume,VIC,Inner Regional Australia
+372,Moyne,Warrnambool and South West,VIC,Outer Regional Australia
+373,Mornington Peninsula,Mornington Peninsula,VIC,Inner Regional Australia
+374,Loddon,Bendigo,VIC,Outer Regional Australia
+375,Hepburn,Ballarat,VIC,Inner Regional Australia
+376,Lockyer Valley,Ipswich,QLD,Inner Regional Australia
+377,Mareeba,Queensland - Outback,QLD,Outer Regional Australia
+378,Barcoo,Queensland - Outback,QLD,Very Remote Australia
+379,Wingecarribee,Sydney - Outer South West,NSW,Inner Regional Australia
+380,Walgett,Far West and Orana,NSW,Very Remote Australia
+381,Moorabool,Melbourne - West,VIC,Inner Regional Australia
+382,Moira,Shepparton,VIC,Outer Regional Australia
+383,Port Phillip,Melbourne - Inner,VIC,Major Cities of Australia
+384,Moreland,Melbourne - North West,VIC,Major Cities of Australia
+385,Yass Valley,Capital Region,NSW,Major Cities of Australia
+386,Murray River,Murray,NSW,Remote Australia
+387,Coonamble,Far West and Orana,NSW,Remote Australia
+388,Randwick,Sydney - City and Inner South,NSW,Major Cities of Australia
+389,Hornsby,Sydney - Baulkham Hills and Hawkesbury,NSW,Inner Regional Australia
+390,Kiama,Illawarra,NSW,Major Cities of Australia
+391,Lockhart,Riverina,NSW,Outer Regional Australia
+392,Cobar,Far West and Orana,NSW,Remote Australia
+393,Queanbeyan-Palerang Regional,Capital Region,NSW,Outer Regional Australia
+394,Gannawarra,North West,VIC,Outer Regional Australia
+395,Wyndham,Melbourne - West,VIC,Inner Regional Australia
+396,Hindmarsh,North West,VIC,Outer Regional Australia
+397,Wangaratta,Hume,VIC,Inner Regional Australia
+398,Unincorporated Vic,Latrobe - Gippsland,VIC,Outer Regional Australia
+399,Mitchell,Melbourne - North East,VIC,Inner Regional Australia
+400,Colac Otway,Warrnambool and South West,VIC,Outer Regional Australia
+401,Brisbane,Ipswich,QLD,Inner Regional Australia
+402,Scenic Rim,Gold Coast,QLD,Inner Regional Australia
+403,Charters Towers,Townsville,QLD,Remote Australia
+404,Etheridge,Queensland - Outback,QLD,Very Remote Australia
+405,Redland,Brisbane - East,QLD,Remote Australia
+406,Mount Isa,Queensland - Outback,QLD,Very Remote Australia
+407,Hornsby,Sydney - Baulkham Hills and Hawkesbury,NSW,Major Cities of Australia
+408,Yarra,Melbourne - Inner,VIC,Major Cities of Australia
+409,Towong,Hume,VIC,Inner Regional Australia
+410,Hay,Murray,NSW,Outer Regional Australia
+411,Mareeba,Cairns,QLD,Outer Regional Australia
+412,Central Highlands (Qld),Central Queensland,QLD,Very Remote Australia
+413,Mosman,Sydney - North Sydney and Hornsby,NSW,Major Cities of Australia
+414,Banyule,Melbourne - North East,VIC,Major Cities of Australia
+415,Moonee Valley,Melbourne - North West,VIC,Major Cities of Australia
+416,Manningham,Melbourne - Inner East,VIC,Major Cities of Australia
+417,Liverpool,Sydney - Outer West and Blue Mountains,NSW,Inner Regional Australia
+418,Cook,Queensland - Outback,QLD,Remote Australia
+419,Banana,Central Queensland,QLD,Remote Australia
+420,Southern Grampians,Warrnambool and South West,VIC,Inner Regional Australia
+421,Northern Grampians,North West,VIC,Inner Regional Australia
+422,Central Goldfields,Ballarat,VIC,Inner Regional Australia
+423,Southern Downs,Darling Downs - Maranoa,QLD,Outer Regional Australia
+424,Hinchinbrook,Townsville,QLD,Remote Australia
+425,Livingstone,Central Queensland,QLD,Outer Regional Australia
+426,Northern Peninsula Area,Queensland - Outback,QLD,Very Remote Australia
+427,Tablelands,Cairns,QLD,Remote Australia
+428,Bulloo,Queensland - Outback,QLD,Very Remote Australia
+429,Douglas,Cairns,QLD,Remote Australia
+430,Nillumbik,Melbourne - North East,VIC,Major Cities of Australia
+431,Yarriambiack,North West,VIC,Remote Australia
+433,Mildura,North West,VIC,Remote Australia
+435,Mitchell,Melbourne - North East,VIC,Major Cities of Australia
+436,Brimbank,Melbourne - North West,VIC,Major Cities of Australia
+437,Moreland,Melbourne - Inner,VIC,Major Cities of Australia
+438,Wollondilly,Sydney - Outer South West,NSW,Major Cities of Australia
+439,Alpine,Hume,VIC,Inner Regional Australia
+440,Balonne,Darling Downs - Maranoa,QLD,Remote Australia
+441,Dungog,Hunter Valley exc Newcastle,NSW,Outer Regional Australia
+442,Armadale,Perth - South East,WA,Inner Regional Australia
+443,Harvey,Bunbury,WA,Inner Regional Australia
+444,Gosnells,Perth - South East,WA,Major Cities of Australia
+445,Kojonup,Western Australia - Wheat Belt,WA,Outer Regional Australia
+446,Carnarvon,Western Australia - Outback (South),WA,Very Remote Australia
+447,Armadale,Perth - South East,WA,Major Cities of Australia
+448,Busselton,Bunbury,WA,Inner Regional Australia
+449,Beverley,Western Australia - Wheat Belt,WA,Outer Regional Australia
+450,Peppermint Grove,Perth - Inner,WA,Major Cities of Australia
+451,Gingin,Western Australia - Wheat Belt,WA,Outer Regional Australia
+452,Murray,Mandurah,WA,Inner Regional Australia
+453,Mundaring,Perth - North East,WA,Major Cities of Australia
+454,East Pilbara,Western Australia - Outback (North),WA,Very Remote Australia
+455,Manjimup,Bunbury,WA,Remote Australia
+456,Chittering,Western Australia - Wheat Belt,WA,Inner Regional Australia
+457,Dundas,Western Australia - Outback (South),WA,Very Remote Australia
+458,Rockingham,Perth - South West,WA,Major Cities of Australia
+459,Wanneroo,Perth - North West,WA,Major Cities of Australia
+460,Bayswater,Perth - North East,WA,Major Cities of Australia
+461,Derby-West Kimberley,Western Australia - Outback (North),WA,Very Remote Australia
+462,Kondinin,Western Australia - Wheat Belt,WA,Remote Australia
+463,Swan Hill,North West,VIC,Outer Regional Australia
+464,Benalla,Hume,VIC,Inner Regional Australia
+465,Fraser Coast,Wide Bay,QLD,Remote Australia
+466,Lockhart River,Queensland - Outback,QLD,Very Remote Australia
+467,Yarrabah,Cairns,QLD,Outer Regional Australia
+468,Golden Plains,Ballarat,VIC,Inner Regional Australia
+469,Balonne,Darling Downs - Maranoa,QLD,Very Remote Australia
+470,Redland,Brisbane - East,QLD,Outer Regional Australia
+471,Lachlan,Central West,NSW,Outer Regional Australia
+472,Broken Hill,Far West and Orana,NSW,Outer Regional Australia
+473,South Gippsland,Latrobe - Gippsland,VIC,Outer Regional Australia
+474,Wodonga,Hume,VIC,Inner Regional Australia
+475,Alpine,Hume,VIC,Outer Regional Australia
+476,Richmond,Queensland - Outback,QLD,Very Remote Australia
+477,Melton,Melbourne - North West,VIC,Major Cities of Australia
+478,Maranoa,Darling Downs - Maranoa,QLD,Very Remote Australia
+479,Surf Coast,Warrnambool and South West,VIC,Inner Regional Australia
+480,Ararat,Ballarat,VIC,Outer Regional Australia
+481,Burke,Queensland - Outback,QLD,Very Remote Australia
+482,Brisbane,Brisbane - West,QLD,Inner Regional Australia
+483,Maranoa,Darling Downs - Maranoa,QLD,Outer Regional Australia
+484,Augusta Margaret River,Bunbury,WA,Inner Regional Australia
+485,Esperance,Western Australia - Outback (South),WA,Remote Australia
+486,Cockburn,Perth - South West,WA,Major Cities of Australia
+487,Serpentine-Jarrahdale,Perth - South East,WA,Inner Regional Australia
+488,Kulin,Western Australia - Wheat Belt,WA,Remote Australia
+489,Bruce Rock,Western Australia - Wheat Belt,WA,Remote Australia
+490,Ravensthorpe,Western Australia - Outback (South),WA,Very Remote Australia
+491,Murray,Mandurah,WA,Major Cities of Australia
+493,Swan,Perth - North East,WA,Inner Regional Australia
+494,Joondalup,Perth - North West,WA,Major Cities of Australia
+495,Boddington,Western Australia - Wheat Belt,WA,Inner Regional Australia
+496,Canning,Perth - South East,WA,Major Cities of Australia
+497,Kalgoorlie-Boulder,Western Australia - Outback (South),WA,Outer Regional Australia
+498,Wyndham-East Kimberley,Western Australia - Outback (North),WA,Very Remote Australia
+499,Cuballing,Western Australia - Wheat Belt,WA,Outer Regional Australia
+500,Plantagenet,Western Australia - Wheat Belt,WA,Outer Regional Australia
+501,Pyrenees,Ballarat,VIC,Outer Regional Australia
+502,Somerset,Moreton Bay - North,QLD,Inner Regional Australia
+503,Glen Innes Severn,New England and North West,NSW,Inner Regional Australia
+504,Palm Island,Townsville,QLD,Remote Australia
+505,Fraser Coast,Wide Bay,QLD,Outer Regional Australia
+506,Wangaratta,Hume,VIC,Outer Regional Australia
+507,Weipa,Queensland - Outback,QLD,Very Remote Australia
+508,Melton,Melbourne - West,VIC,Inner Regional Australia
+509,Greater Shepparton,Hume,VIC,Inner Regional Australia
+510,Unincorporated Vic,Hume,VIC,Outer Regional Australia
+511,Barcaldine,Queensland - Outback,QLD,Very Remote Australia
+512,Mornington,Queensland - Outback,QLD,Very Remote Australia
+513,Kalgoorlie-Boulder,Western Australia - Outback (South),WA,Very Remote Australia
+514,Stirling,Perth - Inner,WA,Major Cities of Australia
+515,Serpentine-Jarrahdale,Perth - South East,WA,Major Cities of Australia
+516,Dalwallinu,Western Australia - Wheat Belt,WA,Remote Australia
+517,Bunbury,Bunbury,WA,Inner Regional Australia
+518,South Perth,Perth - South East,WA,Major Cities of Australia
+519,Gnowangerup,Western Australia - Wheat Belt,WA,Remote Australia
+520,Stirling,Perth - North West,WA,Major Cities of Australia
+521,Merredin,Western Australia - Wheat Belt,WA,Outer Regional Australia
+522,York,Western Australia - Wheat Belt,WA,Inner Regional Australia
+523,Port Hedland,Western Australia - Outback (North),WA,Very Remote Australia
+524,Mandurah,Mandurah,WA,Major Cities of Australia
+525,Quilpie,Queensland - Outback,QLD,Very Remote Australia
+526,Swan,Perth - North East,WA,Major Cities of Australia
+527,Albany,Western Australia - Wheat Belt,WA,Outer Regional Australia
+528,Mundaring,Perth - North East,WA,Inner Regional Australia
+529,Cottesloe,Perth - Inner,WA,Major Cities of Australia
+530,Fremantle,Perth - South West,WA,Major Cities of Australia
+531,Bridgetown-Greenbushes,Bunbury,WA,Outer Regional Australia
+532,Denmark,Western Australia - Wheat Belt,WA,Outer Regional Australia
+533,Kwinana,Perth - South West,WA,Major Cities of Australia
+534,Karratha,Western Australia - Outback (North),WA,Very Remote Australia
+535,Broome,Western Australia - Outback (North),WA,Very Remote Australia
+536,Mareeba,Queensland - Outback,QLD,Remote Australia
+537,Monash,Melbourne - Inner South,VIC,Major Cities of Australia
+538,Port Adelaide Enfield,Adelaide - West,SA,Major Cities of Australia
+539,Wattle Range,South Australia - South East,SA,Outer Regional Australia
+540,Tea Tree Gully,Adelaide - North,SA,Major Cities of Australia
+541,Clare and Gilbert Valleys,Barossa - Yorke - Mid North,SA,Inner Regional Australia
+542,Murray Bridge,South Australia - South East,SA,Inner Regional Australia
+543,Charles Sturt,Adelaide - West,SA,Major Cities of Australia
+544,Loxton Waikerie,South Australia - South East,SA,Outer Regional Australia
+545,Adelaide Hills,Adelaide - Central and Hills,SA,Major Cities of Australia
+546,Unincorporated SA,South Australia - Outback,SA,Very Remote Australia
+547,Barossa,Barossa - Yorke - Mid North,SA,Inner Regional Australia
+548,Orroroo Carrieton,Barossa - Yorke - Mid North,SA,Outer Regional Australia
+549,Kangaroo Island,South Australia - South East,SA,Remote Australia
+550,Mid Murray,South Australia - South East,SA,Outer Regional Australia
+551,Franklin Harbour,South Australia - Outback,SA,Outer Regional Australia
+552,Adelaide Hills,Adelaide - Central and Hills,SA,Inner Regional Australia
+553,Norwood Payneham and St Peters,Adelaide - Central and Hills,SA,Major Cities of Australia
+554,Unley,Adelaide - Central and Hills,SA,Major Cities of Australia
+555,Moorabool,Melbourne - West,VIC,Major Cities of Australia
+556,Unknown,Melbourne - Inner,VIC,Major Cities of Australia
+557,Unknown,Melbourne - North East,VIC,Major Cities of Australia
+558,Unknown,Mornington Peninsula,VIC,Inner Regional Australia
+559,Unknown,Melbourne - West,VIC,Major Cities of Australia
+560,Unknown,Mornington Peninsula,VIC,Major Cities of Australia
+561,Unknown,Latrobe - Gippsland,VIC,Inner Regional Australia
+562,Unknown,Melbourne - North West,VIC,Major Cities of Australia
+563,Unknown,Hume,VIC,Inner Regional Australia
+564,Unknown,Latrobe - Gippsland,VIC,Outer Regional Australia
+565,Unknown,Warrnambool and South West,VIC,Outer Regional Australia
+566,Unknown,North West,VIC,Outer Regional Australia
+567,Unknown,Melbourne - Outer East,VIC,Major Cities of Australia
+568,Unknown,Melbourne - South East,VIC,Inner Regional Australia
+569,Unknown,Melbourne - West,VIC,Inner Regional Australia
+570,Unknown,Shepparton,VIC,Inner Regional Australia
+571,Unknown,Melbourne - South East,VIC,Major Cities of Australia
+572,Unknown,Ballarat,VIC,Inner Regional Australia
+573,Unknown,Hume,VIC,Outer Regional Australia
+574,Nedlands,Perth - Inner,WA,Major Cities of Australia
+575,Kalamunda,Perth - South East,WA,Major Cities of Australia
+576,Irwin,Western Australia - Outback (South),WA,Outer Regional Australia
+577,Gingin,Western Australia - Wheat Belt,WA,Inner Regional Australia
+578,Morawa,Western Australia - Outback (South),WA,Remote Australia
+579,Belmont,Perth - South East,WA,Major Cities of Australia
+580,Collie,Bunbury,WA,Inner Regional Australia
+581,Dandaragan,Western Australia - Wheat Belt,WA,Outer Regional Australia
+582,Greater Geraldton,Western Australia - Outback (South),WA,Remote Australia
+583,Williams,Western Australia - Wheat Belt,WA,Outer Regional Australia
+584,Melville,Perth - South West,WA,Major Cities of Australia
+585,Murray,Western Australia - Wheat Belt,WA,Inner Regional Australia
+586,Lake Grace,Western Australia - Wheat Belt,WA,Remote Australia
+587,Wongan-Ballidu,Western Australia - Wheat Belt,WA,Outer Regional Australia
+588,Unknown,Shepparton,VIC,Outer Regional Australia
+589,Unknown,Warrnambool and South West,VIC,Inner Regional Australia
+590,Unknown,Geelong,VIC,Inner Regional Australia
+591,Unknown,Melbourne - Inner East,VIC,Major Cities of Australia
+592,Unknown,Melbourne - Inner South,VIC,Major Cities of Australia
+593,Unknown,Bendigo,VIC,Inner Regional Australia
+594,Unknown,Geelong,VIC,Major Cities of Australia
+595,Goomalling,Western Australia - Wheat Belt,WA,Outer Regional Australia
+596,Northam,Western Australia - Wheat Belt,WA,Inner Regional Australia
+597,Laverton,Western Australia - Outback (South),WA,Very Remote Australia
+598,Toodyay,Western Australia - Wheat Belt,WA,Inner Regional Australia
+599,Victoria Park,Perth - South East,WA,Major Cities of Australia
+600,Adelaide,Adelaide - Central and Hills,SA,Major Cities of Australia
+601,Unincorporated SA,South Australia - Outback,SA,Remote Australia
+602,Onkaparinga,Adelaide - South,SA,Major Cities of Australia
+603,Port Adelaide Enfield,Adelaide - North,SA,Major Cities of Australia
+604,Renmark Paringa,South Australia - South East,SA,Outer Regional Australia
+605,Barunga West,Barossa - Yorke - Mid North,SA,Outer Regional Australia
+606,Alexandrina,South Australia - South East,SA,Inner Regional Australia
+607,Salisbury,Adelaide - North,SA,Major Cities of Australia
+608,Playford,Adelaide - North,SA,Major Cities of Australia
+609,Light,Barossa - Yorke - Mid North,SA,Inner Regional Australia
+610,Victor Harbor,South Australia - South East,SA,Inner Regional Australia
+611,Robe,South Australia - South East,SA,Outer Regional Australia
+612,Mid Murray,South Australia - South East,SA,Inner Regional Australia
+613,West Torrens,Adelaide - West,SA,Major Cities of Australia
+614,Whyalla,South Australia - Outback,SA,Outer Regional Australia
+615,Yorke Peninsula,Barossa - Yorke - Mid North,SA,Outer Regional Australia
+616,Naracoorte Lucindale,South Australia - South East,SA,Outer Regional Australia
+617,Onkaparinga,Adelaide - South,SA,Inner Regional Australia
+618,Wakefield,Barossa - Yorke - Mid North,SA,Outer Regional Australia
+619,Port Pirie,Barossa - Yorke - Mid North,SA,Outer Regional Australia
+620,Waroona,Bunbury,WA,Inner Regional Australia
+621,Ashburton,Western Australia - Outback (North),WA,Very Remote Australia
+622,Chapman Valley,Western Australia - Outback (South),WA,Outer Regional Australia
+623,Halls Creek,Western Australia - Outback (North),WA,Very Remote Australia
+624,Greater Geraldton,Western Australia - Outback (South),WA,Outer Regional Australia
+626,Baw Baw,Latrobe - Gippsland,VIC,Outer Regional Australia
+627,Claremont,Perth - Inner,WA,Major Cities of Australia
+628,Mount Magnet,Western Australia - Outback (South),WA,Very Remote Australia
+629,Dardanup,Bunbury,WA,Inner Regional Australia
+630,Cue,Western Australia - Outback (South),WA,Very Remote Australia
+631,Northampton,Western Australia - Outback (South),WA,Remote Australia
+632,Meekatharra,Western Australia - Outback (South),WA,Very Remote Australia
+633,Quairading,Western Australia - Wheat Belt,WA,Outer Regional Australia
+634,Capel,Bunbury,WA,Inner Regional Australia
+635,Donnybrook-Balingup,Bunbury,WA,Inner Regional Australia
+636,Nannup,Bunbury,WA,Outer Regional Australia
+637,Kondinin,Western Australia - Wheat Belt,WA,Very Remote Australia
+638,Jerramungup,Western Australia - Wheat Belt,WA,Remote Australia
+639,Narrogin,Western Australia - Wheat Belt,WA,Outer Regional Australia
+640,Dumbleyung,Western Australia - Wheat Belt,WA,Remote Australia
+641,Brookton,Western Australia - Wheat Belt,WA,Outer Regional Australia
+642,Chittering,Western Australia - Wheat Belt,WA,Outer Regional Australia
+643,Wanneroo,Perth - North West,WA,Inner Regional Australia
+644,Coolgardie,Western Australia - Outback (South),WA,Very Remote Australia
+645,Yalgoo,Western Australia - Outback (South),WA,Very Remote Australia
+647,Strathfield,Sydney - Inner South West,NSW,Major Cities of Australia
+648,Wickepin,Western Australia - Wheat Belt,WA,Remote Australia
+649,Toodyay,Western Australia - Wheat Belt,WA,Outer Regional Australia
+650,Chapman Valley,Western Australia - Outback (South),WA,Remote Australia
+651,Broome,Western Australia - Outback (North),WA,Remote Australia
+652,Mount Marshall,Western Australia - Wheat Belt,WA,Remote Australia
+653,Murchison,Western Australia - Outback (South),WA,Very Remote Australia
+654,Broomehill-Tambellup,Western Australia - Wheat Belt,WA,Outer Regional Australia
+655,Cunderdin,Western Australia - Wheat Belt,WA,Outer Regional Australia
+656,Perth,Perth - Inner,WA,Major Cities of Australia
+657,Ararat,Ballarat,VIC,Inner Regional Australia
+658,Vincent,Perth - Inner,WA,Major Cities of Australia
+659,Menzies,Western Australia - Outback (South),WA,Very Remote Australia
+660,Westonia,Western Australia - Wheat Belt,WA,Remote Australia
+661,Manjimup,Bunbury,WA,Outer Regional Australia
+662,Leonora,Western Australia - Outback (South),WA,Very Remote Australia
+663,Boyup Brook,Bunbury,WA,Outer Regional Australia
+664,Corrigin,Western Australia - Wheat Belt,WA,Remote Australia
+665,Moora,Western Australia - Wheat Belt,WA,Outer Regional Australia
+666,Sunshine Coast,Moreton Bay - North,QLD,Inner Regional Australia
+667,Unknown,Melbourne - North East,VIC,Inner Regional Australia
+668,Moora,Western Australia - Wheat Belt,WA,Remote Australia
+669,Augusta Margaret River,Bunbury,WA,Outer Regional Australia
+670,Wickepin,Western Australia - Wheat Belt,WA,Outer Regional Australia
+671,Karratha,Western Australia - Outback (North),WA,Remote Australia
+672,West Arthur,Western Australia - Wheat Belt,WA,Outer Regional Australia
+673,Esperance,Western Australia - Outback (South),WA,Very Remote Australia
+674,Sandstone,Western Australia - Outback (South),WA,Very Remote Australia
+675,Port Hedland,Western Australia - Outback (North),WA,Remote Australia
+676,Kalamunda,Perth - South East,WA,Inner Regional Australia
+677,Cambridge,Perth - Inner,WA,Major Cities of Australia
+678,Boddington,Western Australia - Wheat Belt,WA,Outer Regional Australia
+679,Yilgarn,Western Australia - Wheat Belt,WA,Remote Australia
+680,Kalamunda,Perth - North East,WA,Inner Regional Australia
+681,Kellerberrin,Western Australia - Wheat Belt,WA,Outer Regional Australia
+682,Carnamah,Western Australia - Outback (South),WA,Remote Australia
+683,Wandering,Western Australia - Wheat Belt,WA,Outer Regional Australia
+684,Unknown,Bendigo,VIC,Outer Regional Australia
+685,Unknown,Melbourne - North West,VIC,Inner Regional Australia
+686,Victoria Plains,Western Australia - Wheat Belt,WA,Outer Regional Australia
+687,Kent,Western Australia - Wheat Belt,WA,Remote Australia
+688,Marion,Adelaide - South,SA,Major Cities of Australia
+689,Copper Coast,Barossa - Yorke - Mid North,SA,Outer Regional Australia
+690,Ceduna,South Australia - Outback,SA,Very Remote Australia
+691,Goyder,Barossa - Yorke - Mid North,SA,Outer Regional Australia
+692,Grant,South Australia - South East,SA,Outer Regional Australia
+693,Campbelltown (SA),Adelaide - Central and Hills,SA,Major Cities of Australia
+694,Bassendean,Perth - North East,WA,Major Cities of Australia
+695,Mount Barker,Adelaide - Central and Hills,SA,Major Cities of Australia
+696,Yankalilla,South Australia - South East,SA,Inner Regional Australia
+697,Port Augusta,South Australia - Outback,SA,Outer Regional Australia
+698,Walkerville,Adelaide - Central and Hills,SA,Major Cities of Australia
+699,Clare and Gilbert Valleys,Barossa - Yorke - Mid North,SA,Outer Regional Australia
+700,Wongan-Ballidu,Western Australia - Wheat Belt,WA,Remote Australia
+701,Burnside,Adelaide - Central and Hills,SA,Major Cities of Australia
+702,Mount Barker,Adelaide - Central and Hills,SA,Inner Regional Australia
+703,Loddon,Ballarat,VIC,Inner Regional Australia
+704,Woodanilling,Western Australia - Wheat Belt,WA,Outer Regional Australia
+705,Dowerin,Western Australia - Wheat Belt,WA,Outer Regional Australia
+706,Pormpuraaw,Queensland - Outback,QLD,Very Remote Australia
+707,Coorow,Western Australia - Outback (South),WA,Remote Australia
+708,Light,Adelaide - North,SA,Inner Regional Australia
+711,Unknown,Melbourne - Outer East,VIC,Inner Regional Australia
+712,Wagin,Western Australia - Wheat Belt,WA,Outer Regional Australia
+713,Southern Mallee,South Australia - South East,SA,Remote Australia
+714,Flinders Ranges,South Australia - Outback,SA,Outer Regional Australia
+715,Goyder,Barossa - Yorke - Mid North,SA,Inner Regional Australia
+716,Adelaide Plains,Adelaide - North,SA,Inner Regional Australia
+717,Anangu Pitjantjatjara Yunkunytjatjara,South Australia - Outback,SA,Very Remote Australia
+718,Streaky Bay,South Australia - Outback,SA,Very Remote Australia
+719,Elliston,South Australia - Outback,SA,Very Remote Australia
+720,Adelaide Plains,Barossa - Yorke - Mid North,SA,Inner Regional Australia
+721,Mount Remarkable,Barossa - Yorke - Mid North,SA,Outer Regional Australia
+722,Holdfast Bay,Adelaide - South,SA,Major Cities of Australia
+723,Exmouth,Western Australia - Outback (South),WA,Very Remote Australia
+724,Mitcham,Adelaide - South,SA,Major Cities of Australia
+725,Berri Barmera,South Australia - South East,SA,Outer Regional Australia
+726,Subiaco,Perth - Inner,WA,Major Cities of Australia
+727,Trayning,Western Australia - Wheat Belt,WA,Remote Australia
+728,Merredin,Western Australia - Wheat Belt,WA,Remote Australia
+729,Gnowangerup,Western Australia - Wheat Belt,WA,Outer Regional Australia
+730,Tumby Bay,South Australia - Outback,SA,Remote Australia
+731,Playford,Adelaide - North,SA,Inner Regional Australia
+732,Lower Eyre Peninsula,South Australia - Outback,SA,Remote Australia
+733,Mandurah,Mandurah,WA,Inner Regional Australia
+734,Mingenew,Western Australia - Outback (South),WA,Outer Regional Australia
+735,Kingston (SA),South Australia - South East,SA,Remote Australia
+736,Coorong,South Australia - South East,SA,Outer Regional Australia
+737,Tatiara,South Australia - South East,SA,Outer Regional Australia
+738,Wakefield,Barossa - Yorke - Mid North,SA,Inner Regional Australia
+739,Tatiara,South Australia - South East,SA,Remote Australia
+740,Kingston (SA),South Australia - South East,SA,Outer Regional Australia
+741,Katanning,Western Australia - Wheat Belt,WA,Outer Regional Australia
+742,Gawler,Adelaide - North,SA,Major Cities of Australia
+743,Northern Areas,Barossa - Yorke - Mid North,SA,Outer Regional Australia
+744,Mount Gambier,South Australia - South East,SA,Outer Regional Australia
+745,Cranbrook,Western Australia - Wheat Belt,WA,Outer Regional Australia
+746,Unknown,North West,VIC,Inner Regional Australia
+747,Nungarin,Western Australia - Wheat Belt,WA,Remote Australia
+748,Cleve,South Australia - Outback,SA,Remote Australia
+749,Mosman Park,Perth - Inner,WA,Major Cities of Australia
+750,Karoonda East Murray,South Australia - South East,SA,Outer Regional Australia
+751,Coorong,South Australia - South East,SA,Inner Regional Australia
+752,Perenjori,Western Australia - Outback (South),WA,Remote Australia
+753,Pingelly,Western Australia - Wheat Belt,WA,Outer Regional Australia
+754,Wudinna,South Australia - Outback,SA,Very Remote Australia
+755,Wudinna,South Australia - Outback,SA,Remote Australia
+756,Yorke Peninsula,Barossa - Yorke - Mid North,SA,Remote Australia
+757,Unknown,North West,VIC,Remote Australia
+758,Lake Grace,Western Australia - Wheat Belt,WA,Very Remote Australia
+759,Kimba,South Australia - Outback,SA,Remote Australia
+760,Albany,Western Australia - Wheat Belt,WA,Remote Australia
+761,Prospect,Adelaide - Central and Hills,SA,Major Cities of Australia
+762,Light,Adelaide - North,SA,Major Cities of Australia
+763,Ngaanyatjarraku,Western Australia - Outback (South),WA,Very Remote Australia
+764,West Tamar,Launceston and North East,TAS,Inner Regional Australia
+765,Hobart,Hobart,TAS,Inner Regional Australia
+766,Glenorchy,Hobart,TAS,Inner Regional Australia
+767,Launceston,Launceston and North East,TAS,Inner Regional Australia
+768,Sorell,Hobart,TAS,Inner Regional Australia
+769,Northern Midlands,Launceston and North East,TAS,Outer Regional Australia
+770,Latrobe (Tas.),West and North West,TAS,Outer Regional Australia
+771,Southern Mallee,South Australia - South East,SA,Outer Regional Australia
+772,Coober Pedy,South Australia - Outback,SA,Very Remote Australia
+773,Darwin,Darwin,NT,Outer Regional Australia
+774,Litchfield,Darwin,NT,Outer Regional Australia
+775,Alice Springs,Northern Territory - Outback,NT,Remote Australia
+776,West Arnhem,Northern Territory - Outback,NT,Remote Australia
+777,Barkly,Northern Territory - Outback,NT,Very Remote Australia
+778,Roper Gulf,Northern Territory - Outback,NT,Very Remote Australia
+779,Victoria Daly,Northern Territory - Outback,NT,Very Remote Australia
+780,Barossa,Adelaide - North,SA,Major Cities of Australia
+781,Port Lincoln,South Australia - Outback,SA,Remote Australia
+782,Waratah-Wynyard,West and North West,TAS,Outer Regional Australia
+783,Meander Valley,Launceston and North East,TAS,Inner Regional Australia
+784,Break O'Day,Launceston and North East,TAS,Outer Regional Australia
+785,Devonport,West and North West,TAS,Outer Regional Australia
+786,Southern Midlands,South East,TAS,Outer Regional Australia
+787,Franklin Harbour,South Australia - Outback,SA,Remote Australia
+788,Katherine,Northern Territory - Outback,NT,Remote Australia
+789,Unincorporated NT,Northern Territory - Outback,NT,Remote Australia
+790,MacDonnell,Northern Territory - Outback,NT,Very Remote Australia
+791,Kingborough,Hobart,TAS,Inner Regional Australia
+792,Kentish,West and North West,TAS,Outer Regional Australia
+793,Shark Bay,Western Australia - Outback (South),WA,Very Remote Australia
+795,Victoria Daly,Northern Territory - Outback,NT,Remote Australia
+796,East Arnhem,Northern Territory - Outback,NT,Very Remote Australia
+797,West Tamar,Launceston and North East,TAS,Outer Regional Australia
+798,Derwent Valley,South East,TAS,Outer Regional Australia
+799,Burnie,West and North West,TAS,Outer Regional Australia
+800,George Town,Launceston and North East,TAS,Outer Regional Australia
+801,King Island,West and North West,TAS,Very Remote Australia
+802,Clarence,Hobart,TAS,Inner Regional Australia
+803,Meander Valley,Launceston and North East,TAS,Outer Regional Australia
+804,Huon Valley,South East,TAS,Outer Regional Australia
+805,Central Coast (Tas.),West and North West,TAS,Outer Regional Australia
+806,Unincorporated NT,Darwin,NT,Outer Regional Australia
+808,West Coast,West and North West,TAS,Remote Australia
+809,MacDonnell,Northern Territory - Outback,NT,Remote Australia
+810,Central Highlands (Tas.),South East,TAS,Outer Regional Australia
+811,Launceston,Launceston and North East,TAS,Outer Regional Australia
+812,Central Desert,Northern Territory - Outback,NT,Very Remote Australia
+813,Unincorporated ACT,Australian Capital Territory,ACT,Major Cities of Australia
+814,West Arnhem,Northern Territory - Outback,NT,Very Remote Australia
+815,Tasman,South East,TAS,Outer Regional Australia
+816,Coomalie,Northern Territory - Outback,NT,Remote Australia
+817,Sorell,Hobart,TAS,Outer Regional Australia
+818,West Daly,Northern Territory - Outback,NT,Remote Australia
+819,Derwent Valley,Hobart,TAS,Inner Regional Australia
+820,Unincorporated NT,Northern Territory - Outback,NT,Very Remote Australia
+821,Brighton,Hobart,TAS,Inner Regional Australia
+822,Dorset,Launceston and North East,TAS,Outer Regional Australia
+823,Northern Midlands,Launceston and North East,TAS,Inner Regional Australia
+824,Circular Head,West and North West,TAS,Remote Australia
+825,Unknown,Hobart,TAS,Inner Regional Australia
+826,West Daly,Northern Territory - Outback,NT,Very Remote Australia
+827,Circular Head,West and North West,TAS,Outer Regional Australia
+828,Wagait,Northern Territory - Outback,NT,Remote Australia
+829,Palmerston,Darwin,NT,Outer Regional Australia
+830,Kingborough,South East,TAS,Outer Regional Australia
+831,Flinders (Tas.),Launceston and North East,TAS,Very Remote Australia
+833,Break O'Day,Launceston and North East,TAS,Remote Australia
+834,Glamorgan-Spring Bay,South East,TAS,Outer Regional Australia
+835,Unincorporated ACT,Australian Capital Territory,ACT,Inner Regional Australia
