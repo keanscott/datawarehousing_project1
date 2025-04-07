@@ -1,5 +1,5 @@
 CREATE TABLE factcrash (
-	crash_id INTEGER PRIMARY KEY,
+	crash_id BIGINT PRIMARY KEY,
 	location_id INTEGER,
 	time_id INTEGER,
 	crashdetails_id INTEGER,
@@ -11,7 +11,7 @@ CREATE TABLE factcrash (
 
 CREATE TABLE factfatality (
 	fatality_id INTEGER PRIMARY KEY,
-	crash_id INTEGER,
+	crash_id BIGINT,
 	person_id INTEGER, 
 	FOREIGN KEY (crash_id) REFERENCES factcrash(crash_id),
 	FOREIGN KEY (person_id) REFERENCES dimpersondetails(person_id)

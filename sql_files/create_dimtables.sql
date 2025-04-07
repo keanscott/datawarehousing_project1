@@ -10,14 +10,14 @@ CREATE TABLE dimtime (
 
 CREATE TABLE dimlocation (
 	location_id INTEGER PRIMARY KEY,
-	state VARCHAR(3),
+	state VARCHAR(3)
 );
 
 CREATE TABLE dimpersondetails (
 	person_id INTEGER PRIMARY KEY,
 	gender VARCHAR(10),
 	age_group VARCHAR(10),
-	road_user VARCHAR(25)
+	road_user VARCHAR(50)
 );
 
 CREATE TABLE dimcrashdetails (
