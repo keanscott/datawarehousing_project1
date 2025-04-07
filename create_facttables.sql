@@ -13,12 +13,6 @@ CREATE TABLE factfatality (
 	fatality_id INTEGER PRIMARY KEY,
 	crash_id INTEGER,
 	person_id INTEGER, 
-	location_id INTEGER,
-	time_id INTEGER,
-	crashdetails_id INTEGER,
 	FOREIGN KEY (crash_id) REFERENCES factcrash(crash_id),
-	FOREIGN KEY (person_id) REFERENCES dimpersondetails(person_id),
-	FOREIGN KEY (location_id) REFERENCES dimlocation(location_id),
-	FOREIGN KEY (time_id) REFERENCES dimtime(time_id),
-	FOREIGN KEY (crashdetails_id) REFERENCES dimcrashdetails(crashdetails_id)
+	FOREIGN KEY (person_id) REFERENCES dimpersondetails(person_id)
 );

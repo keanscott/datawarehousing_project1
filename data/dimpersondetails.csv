@@ -1,0 +1,140 @@
+person_id,gender,age_group,road_user
+1,Male,70+,Driver
+2,Female,45-49,Driver
+3,Female,70+,Passenger
+4,Male,0-17,Passenger
+5,Male,18-24,Driver
+6,Male,18-24,Passenger
+7,Male,25-29,Driver
+8,Male,45-49,Motorcycle rider
+9,Male,45-49,Driver
+10,Male,50-54,Motorcycle rider
+11,Female,65-69,Driver
+12,Female,18-24,Driver
+13,Male,50-54,Driver
+14,Male,70+,Pedal cyclist
+15,Male,18-24,Motorcycle rider
+16,Female,0-17,Driver
+17,Male,30-34,Driver
+18,Female,50-54,Driver
+19,Male,40-44,Driver
+20,Female,0-17,Pedestrian
+21,Female,70+,Pedestrian
+22,Male,70+,Pedestrian
+23,Male,18-24,Pedestrian
+24,Female,40-44,Pedestrian
+25,Male,0-17,Pedestrian
+26,Male,65-69,Passenger
+27,Male,25-29,Pedestrian
+28,Male,70+,Passenger
+29,Male,65-69,Motorcycle rider
+30,Female,60-64,Passenger
+31,Male,55-59,Driver
+32,Female,18-24,Pedestrian
+33,Female,30-34,Pedestrian
+34,Female,70+,Driver
+35,Female,40-44,Driver
+36,Male,60-64,Motorcycle rider
+37,Female,60-64,Motorcycle rider
+38,Male,60-64,Driver
+39,Male,35-39,Passenger
+40,Male,40-44,Motorcycle rider
+41,Male,35-39,Driver
+42,Female,45-49,Pedestrian
+43,Male,25-29,Motorcycle rider
+44,Female,55-59,Pedestrian
+45,Male,35-39,Motorcycle rider
+46,Male,65-69,Driver
+47,Female,18-24,Passenger
+48,Male,0-17,Driver
+49,Female,45-49,Passenger
+50,Male,0-17,Motorcycle rider
+51,Female,55-59,Driver
+52,Female,60-64,Driver
+53,Male,18-24,Pedal cyclist
+54,Male,70+,Motorcycle rider
+55,Female,65-69,Passenger
+56,Male,60-64,Pedal cyclist
+57,Male,55-59,Motorcycle rider
+58,Male,30-34,Motorcycle rider
+59,Female,18-24,Pedal cyclist
+60,Female,35-39,Driver
+61,Male,45-49,Pedestrian
+62,Male,40-44,Pedestrian
+63,Male,60-64,Pedestrian
+64,Male,50-54,Pedestrian
+65,Female,65-69,Pedestrian
+66,Female,30-34,Driver
+67,Female,60-64,Pedestrian
+68,Male,65-69,Pedestrian
+69,Female,25-29,Pedestrian
+70,Male,65-69,Pedal cyclist
+71,Male,55-59,Passenger
+72,Male,40-44,Passenger
+73,Female,0-17,Passenger
+74,Female,30-34,Passenger
+75,Male,25-29,Passenger
+76,Male,45-49,Passenger
+77,Male,30-34,Pedal cyclist
+78,Female,0-17,Motorcycle pillion passenger
+79,Female,25-29,Driver
+80,Male,30-34,Motorcycle pillion passenger
+81,Female,55-59,Passenger
+82,Male,18-24,Motorcycle pillion passenger
+83,Male,50-54,Passenger
+84,Female,25-29,Passenger
+85,Male,35-39,Pedestrian
+86,Female,65-69,Motorcycle rider
+87,Male,30-34,Passenger
+88,Female,35-39,Passenger
+89,Female,45-49,Motorcycle rider
+90,Female,35-39,Pedestrian
+91,Female,50-54,Pedestrian
+92,Male,30-34,Pedestrian
+93,Female,65-69,Pedal cyclist
+94,Female,55-59,Motorcycle rider
+95,Female,50-54,Motorcycle rider
+96,Female,50-54,Passenger
+97,Male,25-29,Pedal cyclist
+98,Female,0-17,Pedal cyclist
+99,Male,55-59,Pedal cyclist
+100,Female,45-49,Motorcycle pillion passenger
+101,Male,55-59,Pedestrian
+102,Male,35-39,Pedal cyclist
+103,Male,60-64,Passenger
+104,Female,18-24,Motorcycle rider
+105,Male,50-54,Pedal cyclist
+106,Female,35-39,Motorcycle pillion passenger
+107,Male,0-17,Pedal cyclist
+108,Female,18-24,Motorcycle pillion passenger
+109,Female,40-44,Passenger
+110,Male,45-49,Pedal cyclist
+111,Female,30-34,Motorcycle pillion passenger
+112,Male,40-44,Pedal cyclist
+113,Female,50-54,Pedal cyclist
+114,Female,40-44,Motorcycle rider
+115,Female,30-34,Motorcycle rider
+116,Female,25-29,Motorcycle rider
+117,Female,55-59,Pedal cyclist
+118,Male,45-49,Motorcycle pillion passenger
+119,Female,30-34,Pedal cyclist
+120,Female,35-39,Motorcycle rider
+121,Female,70+,Pedal cyclist
+122,Female,65-69,Motorcycle pillion passenger
+123,Female,25-29,Motorcycle pillion passenger
+124,Female,50-54,Motorcycle pillion passenger
+125,Male,0-17,Motorcycle pillion passenger
+126,Female,40-44,Motorcycle pillion passenger
+127,Male,50-54,Motorcycle pillion passenger
+128,Female,45-49,Pedal cyclist
+129,Female,60-64,Motorcycle pillion passenger
+130,Female,25-29,Pedal cyclist
+131,Female,35-39,Pedal cyclist
+132,Female,70+,Motorcycle rider
+133,Female,40-44,Pedal cyclist
+134,Male,25-29,Motorcycle pillion passenger
+135,Female,60-64,Pedal cyclist
+136,Female,55-59,Motorcycle pillion passenger
+137,Female,0-17,Motorcycle rider
+138,Male,35-39,Motorcycle pillion passenger
+139,Male,40-44,Motorcycle pillion passenger
